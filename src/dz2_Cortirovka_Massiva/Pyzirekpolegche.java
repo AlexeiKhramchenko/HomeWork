@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Pyzirekpolegche {
         public static void main(String[] args) {
-            int [] array = {88, 2, 34, 99, 13, 54};//наш массивб можно задать любую длинну или переменные
+            int [] array = {87, 2, 34, 99, 13, 54};//наш массивб можно задать любую длинну или переменные
 
             boolean peremennaia = false;        //переменная отвечающая отсортирован ли массив
             int vremennaia;                     //временная переменная
