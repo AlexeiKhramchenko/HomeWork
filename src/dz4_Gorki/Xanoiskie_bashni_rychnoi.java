@@ -3,7 +3,7 @@ package dz4_Gorki;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Gorki {
+public class Xanoiskie_bashni_rychnoi {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите колличество колец, не менее 3");
